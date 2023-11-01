@@ -68,42 +68,37 @@
 
 ## 💻 2-3. 페이지별 화면
 
-
-
-
-
-|  |  |
-| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------|
-|   <img src = "https://github.com/challeniz/front-end/assets/133936131/ef7b96b2-1f23-42e0-8c25-38a8a1885df8" width = "500"> | <img src = "https://github.com/challeniz/front-end/assets/133936131/60de5b9e-0341-4201-a06f-f26949ae5d8b" width = "500"> |
-| 메인 페이지(1) | 메인 페이지(2) |
-| <img width="500" alt="가입" src="https://github.com/challeniz/front-end/assets/133936131/379da4ed-cfce-4006-9e5c-0e7e445ef3e2"> |<img width="500" alt="로그인" src="https://github.com/challeniz/front-end/assets/133936131/87550264-c8f2-4ff5-ba9f-38982d522b07">|
-| 회원가입 | 로그인 |
-| <img width="500" alt="카테고리1" src="https://github.com/challeniz/front-end/assets/133936131/b06afb3d-e0ee-4adc-b78a-14d9a4559a59"> |   <img width="500" alt="카테고리2" src="https://github.com/challeniz/front-end/assets/133936131/6af1c221-81ed-4e2b-884a-a3cf90002758">  |
-| 전체보기 | 카테고리-취미
-|   <img src = "https://github.com/challeniz/front-end/assets/133936131/c6237dd7-fa9e-4469-bc71-0a61f7a0301e" width = "500" height = "800"> | <img src = "https://github.com/challeniz/front-end/assets/133936131/8b236bcb-d353-47d4-96f9-14f462e3f95b" width = "500" height = "800"> |
-| 개설하기  | 챌린지 상세페이지 |
-|  <img src = "https://github.com/challeniz/front-end/assets/133936131/ea20fe69-ec8f-4203-8e8c-0608c2bad97f" width = "500" height = "1000"> |  <img src = "https://github.com/challeniz/front-end/assets/133936131/707a2ac8-36ce-40ca-9748-64be7f37e61b" width = "500" >  |
-| 마이페이지 - 내챌린지현황 | 마이페이지 - 내등급,배지 |
-|  <img src = "https://github.com/challeniz/front-end/assets/133936131/5609156c-fbba-474c-b887-f1bf31133930)" width = "500" height = "800"> |  <img src = "https://github.com/challeniz/front-end/assets/133936131/21f53a2f-bef1-4277-b2e9-4fb1a21aa7fa" width = "500" height = "800">  |
-| 마이페이지 - 내인증 현황 | 마이페이지 - 내정보 수정|
+|                                                                                                                                          |                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src = "https://github.com/challeniz/front-end/assets/133936131/ef7b96b2-1f23-42e0-8c25-38a8a1885df8" width = "500">                 | <img src = "https://github.com/challeniz/front-end/assets/133936131/60de5b9e-0341-4201-a06f-f26949ae5d8b" width = "500">                 |
+| 메인 페이지(1)                                                                                                                           | 메인 페이지(2)                                                                                                                           |
+| <img width="500" alt="가입" src="https://github.com/challeniz/front-end/assets/133936131/379da4ed-cfce-4006-9e5c-0e7e445ef3e2">       | <img width="500" alt="로그인" src="https://github.com/challeniz/front-end/assets/133936131/87550264-c8f2-4ff5-ba9f-38982d522b07">    |
+| 회원가입                                                                                                                                 | 로그인                                                                                                                                   |
+| <img width="500" alt="카테고리1" src="https://github.com/challeniz/front-end/assets/133936131/b06afb3d-e0ee-4adc-b78a-14d9a4559a59"> | <img width="500" alt="카테고리2" src="https://github.com/challeniz/front-end/assets/133936131/6af1c221-81ed-4e2b-884a-a3cf90002758"> |
+| 전체보기                                                                                                                                 | 카테고리-취미                                                                                                                            |
+| <img src = "https://github.com/challeniz/front-end/assets/133936131/c6237dd7-fa9e-4469-bc71-0a61f7a0301e" width = "500" height = "800">  | <img src = "https://github.com/challeniz/front-end/assets/133936131/8b236bcb-d353-47d4-96f9-14f462e3f95b" width = "500" height = "800">  |
+| 개설하기                                                                                                                                 | 챌린지 상세페이지                                                                                                                        |
+| <img src = "https://github.com/challeniz/front-end/assets/133936131/ea20fe69-ec8f-4203-8e8c-0608c2bad97f" width = "500" height = "1000"> | <img src = "https://github.com/challeniz/front-end/assets/133936131/707a2ac8-36ce-40ca-9748-64be7f37e61b" width = "500" >                |
+| 마이페이지 - 내챌린지현황                                                                                                                | 마이페이지 - 내등급,배지                                                                                                                 |
+| <img src = "https://github.com/challeniz/front-end/assets/133936131/5609156c-fbba-474c-b887-f1bf31133930)" width = "500" height = "800"> | <img src = "https://github.com/challeniz/front-end/assets/133936131/21f53a2f-bef1-4277-b2e9-4fb1a21aa7fa" width = "500" height = "800">  |
+| 마이페이지 - 내인증 현황                                                                                                                 | 마이페이지 - 내정보 수정                                                                                                                 |
 
 <br>
 
 ## 🎬 2-4. 데모영상
 
-
  <details>
   <summary>메인 페이지</summary>
 
-   ###  📍 메인 페이지
+### 📍 메인 페이지
+
   <p align = "left">
   <img src = "https://github.com/challeniz/front-end/assets/133936131/d9c068e7-7e34-4ac9-bc6e-d9dfe5e79291" width = "500">
 </p>
 
-   
-* 챌린지 목록 슬라이드 버튼 
-* 검색창에서 원하는 챌리지 찾기 가능
- </details>
+- 챌린지 목록 슬라이드 버튼
+- 검색창에서 원하는 챌리지 찾기 가능
+</details>
 
  <details>
   <summary>회원가입 / 로그인</summary>
@@ -113,17 +108,18 @@
   <img src = "https://github.com/challeniz/front-end/assets/133936131/61c8801d-79aa-415d-a70b-e84532c8cd99" width = "500">
 </p>
 
-* "중복확인" 버튼은 입력된 이메일이 이미 사용 중인지 확인할수있음. 
-* "가입하기" 버튼은 유효한 이메일이 제공될 때까지 비활성화 
-   
-   ### 📍 로그인
-<p align = "left">
-  <img src = "https://github.com/challeniz/front-end/assets/133936131/6498a52b-97d7-4594-82f1-6e5daf037a39" width = "500">
-</p>
+- "중복확인" 버튼은 입력된 이메일이 이미 사용 중인지 확인할수있음.
+- "가입하기" 버튼은 유효한 이메일이 제공될 때까지 비활성화
 
-* JWT refreshToken 을 이용한 인증 인가
-* useState 훅을 사용하여 이메일과 비밀번호를 관리하고, 이메일과 비밀번호의 유효성 상태를 관리
- </details>
+  ### 📍 로그인
+
+  <p align = "left">
+    <img src = "https://github.com/challeniz/front-end/assets/133936131/6498a52b-97d7-4594-82f1-6e5daf037a39" width = "500">
+  </p>
+
+- JWT refreshToken 을 이용한 인증 인가
+- useState 훅을 사용하여 이메일과 비밀번호를 관리하고, 이메일과 비밀번호의 유효성 상태를 관리
+</details>
 
  <details>
   <summary>챌린지 개설</summary>
@@ -133,45 +129,47 @@
   <img src = "https://github.com/challeniz/front-end/assets/133936131/a90f4119-f7e8-40fa-adf5-f009cde433b5" width = "500">
 </p>
 
+- 시작일을 선택하면 자동으로 금주 일요일까지 모집기간이 설정됨
+- 상세페이지에서 챌린지모집기간,첼린지진행기간을 확인할수있음
+- 마이페이지에 개설한 챌린지로 생성됨
+</details>
+<details>
+ <summary>챌린지 참여</summary>
 
-*  시작일을 선택하면 자동으로 금주 일요일까지 모집기간이 설정됨
-*  상세페이지에서 챌린지모집기간,첼린지진행기간을 확인할수있음
-*  마이페이지에 개설한 챌린지로 생성됨
- </details>
- <details>
-  <summary>챌린지 참여</summary>
+### 📍 챌린지 참여
 
-  ### 📍 챌린지 참여
   <p align = "left">
   <img src = "https://github.com/challeniz/front-end/assets/133936131/8c01a8c5-dced-4c38-931c-a6f4314e3ac4" width = "500">
 </p>
 
-*  참여하기를 누르면 자동으로 참여자의 정보가 입력됨
-*  마이페이지에서 참여중인 챌린지 확인 가능
- </details>
- <details>
-  <summary>챌린지 인증</summary>
+- 참여하기를 누르면 자동으로 참여자의 정보가 입력됨
+- 마이페이지에서 참여중인 챌린지 확인 가능
+   </details>
+   <details>
+    <summary>챌린지 인증</summary>
 
-   ### 📍 챌린지 인증
-  <p align = "left">
-  <img src = "https://github.com/challeniz/front-end/assets/133936131/00e1bc26-cce1-4963-b3c3-345bfaeb7204" width = "500">
-</p>
+  ### 📍 챌린지 인증
 
-*  하루에 한번 인증하기를 완료하면 인증완료 버튼변경됨
-*  챌린지 상세페이지에서도 인증확인 가능
- </details>
- <details>
-  <summary>마이페이지</summary>
+    <p align = "left">
+    <img src = "https://github.com/challeniz/front-end/assets/133936131/00e1bc26-cce1-4963-b3c3-345bfaeb7204" width = "500">
+  </p>
 
-  ### 📍 마이페이지 
+- 하루에 한번 인증하기를 완료하면 인증완료 버튼변경됨
+- 챌린지 상세페이지에서도 인증확인 가능
+</details>
+<details>
+ <summary>마이페이지</summary>
+
+### 📍 마이페이지
+
 <p align = "left">
   <img src = "https://github.com/challeniz/front-end/assets/133936131/6031983c-802b-45f8-95fe-3db0f3b8eab2" width = "500">
 </p>
 
-*  개설챌릱,참여챌린지,완료챌린지 확인 가능
-*  나의 등급과 인증갯수, 획득한   배지를 볼 수 있음
-*  다음등급까지 남은 인증갯수 확인 가능 
- </details>
+- 개설챌릱,참여챌린지,완료챌린지 확인 가능
+- 나의 등급과 인증갯수, 획득한 배지를 볼 수 있음
+- 다음등급까지 남은 인증갯수 확인 가능
+</details>
 
 <br>
 <br>
@@ -234,6 +232,24 @@ https://www.figma.com/file/SeHE7w071S1xGn4sIPuWYz/%ED%8E%98%EC%9D%B4%EC%A7%80-%E
 ---
 
 <details>
-  <summary></summary>
-  내용 넣기
+  <summary>챌린지 둘러보기</summary>
+  - 챌린지의 남은 모집기간을 실시간으로 볼 수 있는 기능<br />
+  - 챌린지의 카테고리 별로 볼 수 있는 필터 기능
+ </details>
+ <details>
+  <summary>챌린지 상세페이지</summary>
+  - 챌린지 모집기간과 진행기간을 한 눈에 볼 수 있는 캘린더 추가<br />
+  - 챌린지의 별점과 후기 작성 기능 추가 (+별점 평균)
+ </details>
+ <details>
+  <summary>챌린지 개설하기</summary>
+  - 모집일자를 선택하면 자동으로 모집 종료날짜 선택 기능<br />
+  - 진행기간을 선택하면 현재 날짜에 맞게 날짜 데이터 백엔드로 전송
+  - 이미지, 태그 추가 기능
+ </details>
+ <details>
+  <summary>마이페이지</summary>
+  - 개설한챌린지, 찜한챌린지, 완료된 챌린지 순으로 쉽게 구분해서 열람 가능<br />
+  - 회원의 현재 등급과 남은 등급까지의 조건 열람 가능<br />
+  - 챌린지 참여 조건에 따라 배지 획득 기능 
  </details>
