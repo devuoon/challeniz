@@ -15,7 +15,7 @@
 
 <br>
 
-## 🔗 1-1. 배포 주소
+## 🔗 1-1. 배포 주소 (2024.01.01 기준 서버 닫힘)
 
 > IP 주소 : http://challeniz.mooo.com <br>
 > 프론트 GITHUB : https://github.com/challeniz/front-end <br>
